@@ -1,6 +1,6 @@
 # tiny-chess-01
 
-A chess engine in 4 KB of Python: `main.py` (4,039 bytes) is the whole
+A chess engine in 4 KB of Python: `main.py` (4,087 bytes) is the whole
 engine. Alpha-beta search with PVS, a transposition table, null-move
 pruning, late-move reductions, check extensions and quiescence over
 captures, promotions and check evasions, under a fixed 100,000-node
